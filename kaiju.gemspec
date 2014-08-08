@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Kaiju::VERSION
   spec.authors       = ["diagor"]
   spec.email         = ["kleverbox@gmail.com"]
-  spec.description   = %q{Basic Subscription support for Rails with BrainTree, Paypal and Stripe and  }
+  spec.description   = %q{Basic Subscription support for Rails with BrainTree, Paypal and Stripe }
   spec.summary       = %q{Subscription Gem }
   spec.homepage      = "https://github.com/diagor/kaiju"
   spec.license       = "MIT"
